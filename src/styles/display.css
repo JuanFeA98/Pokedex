@@ -1,0 +1,27 @@
+.Display{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.screen_container{
+    width: 80%;
+    height: 250px;
+    background: #c9c9c9;
+    border-radius: 10px;
+    box-shadow: 0px 1px 5px 0px #3d3d3d;
+}
+
+.screen{
+    background: #242424;
+    width: 80%;
+    height: 150px;
+    margin: 20px auto 0 auto;
+    border-radius: 10px;
+}
+
+/* #1b5071 */
+/* #242424 */
+/* #04312b */
+/* #50ad60 */
